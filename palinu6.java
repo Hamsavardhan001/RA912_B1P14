@@ -1,8 +1,8 @@
-import java.util.Stack;
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
-public class palinU6 {
+public class palinu6 {
     
     private static final String APP_NAME = "Palindrome Checker";
     private static final String APP_VERSION = "1.4.0";
